@@ -2,7 +2,7 @@
 #!desc=使用 SSPanel 管理系统机场的每日签到. 使用前请点击下面链接查看使用教程.
 #!author=kayanouriko
 #!homepage=https://github.com/kayanouriko
-#!openurl=https://github.com/kayanouriko/Loon-Scripts/src/sspanel/README.md
+#!openurl=https://github.com/kayanouriko/Loon-Scripts/blob/main/src/sspanel/README.md
 #!date=2023-01-13
 #!icon=https://raw.githubusercontent.com/kayanouriko/Loon-Scripts/main/src/sspanel/assets/logo.jpg
 #!input=cc.kayanouriko.sspanel.url
